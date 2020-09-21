@@ -3,6 +3,7 @@
 * **Gmail:** feelinnglad@gmail.com
 * **Telegram:** @feelinnglad
 * **Twitter:** @MojitoPonyo
+* **Großer:** @feeling_glad
 
 ### Summary
 Upon the completion of courses I plan getting a BSc at inf systems engineering. I’m looking for a job in UI design or anything related to that. Personally I’ve decided to choose the IT sphere due to its really high demand nowadays and of course because of truly wide range of occupations it can offer. And by extension I’m really keen on developing my knowledge in this sphere.
