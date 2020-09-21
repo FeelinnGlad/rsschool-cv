@@ -18,12 +18,10 @@ Would also add that I possess good communication skills in English both verbally
 * Easy focused on tasks, diligent working as well as eager to learn person
 
 ### Code examples
-```html
+```html 
 <div className="img">
 <div>
-{/*<AnimakitExpander expanded = {this.state.usl}>*/}
-<p style={{display: this.state.usl ? "block" : "none"}}>Nyom-nyom</p>
-{/*</AnimakitExpander>*/}
+<p style="display: flex;">Nyom-nyom</p>
 </div>
 </div>
 ```
